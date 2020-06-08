@@ -1,6 +1,0 @@
-file:///home/jeongmin/workspace/airs-recon-package/.devcontainer.json {"mtime":1591579343571,"ctime":1591579343571,"size":0,"etag":"357knj7610","orphaned":false}
-{
-    "image": ".",
-    "forwardPorts": [3000],
-    "extensions": ["dbaeumer.vscode-eslint"]
-  }

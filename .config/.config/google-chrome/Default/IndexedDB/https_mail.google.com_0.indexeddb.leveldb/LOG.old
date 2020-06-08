@@ -1,5 +1,0 @@
-2020/06/07-02:58:45.408 a766 Reusing MANIFEST /home/jeongmin/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/06/07-02:58:47.455 a494 Level-0 table #5: started
-2020/06/07-02:58:47.460 a494 Level-0 table #5: 1218 bytes OK
-2020/06/07-02:58:47.468 a494 Delete type=0 #3
-2020/06/07-02:58:47.468 a494 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

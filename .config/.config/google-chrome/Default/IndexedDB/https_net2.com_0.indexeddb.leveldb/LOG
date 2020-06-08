@@ -1,5 +1,0 @@
-2020/06/07-01:51:17.352 3828 Reusing MANIFEST /home/jeongmin/.config/google-chrome/Default/IndexedDB/https_net2.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/06/07-01:51:33.360 4ddc Level-0 table #5: started
-2020/06/07-01:51:33.365 4ddc Level-0 table #5: 5722 bytes OK
-2020/06/07-01:51:33.372 4ddc Delete type=0 #3
-2020/06/07-01:51:33.373 4ddc Manual compaction at level-0 from (begin) .. (end); will stop at (end)
