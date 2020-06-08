@@ -1,0 +1,9 @@
+2020/06/07-02:40:30.184 9fb9 Reusing MANIFEST /home/jeongmin/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2020/06/07-02:40:30.184 9fb9 Recovering log #3
+2020/06/07-02:40:30.184 9fb9 Reusing old log /home/jeongmin/.config/google-chrome/Default/Local Storage/leveldb/000003.log 
+2020/06/07-02:41:40.551 a14a Level-0 table #5: started
+2020/06/07-02:41:40.556 a14a Level-0 table #5: 17606 bytes OK
+2020/06/07-02:41:40.562 a14a Delete type=0 #3
+2020/06/08-10:48:36.150 a14a Level-0 table #7: started
+2020/06/08-10:48:36.156 a14a Level-0 table #7: 20499 bytes OK
+2020/06/08-10:48:36.161 a14a Delete type=0 #4

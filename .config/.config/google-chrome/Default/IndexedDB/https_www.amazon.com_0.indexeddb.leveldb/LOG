@@ -1,0 +1,15 @@
+2020/06/07-03:18:29.038 ac44 Reusing MANIFEST /home/jeongmin/.config/google-chrome/Default/IndexedDB/https_www.amazon.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/06/07-03:18:29.038 ac44 Recovering log #191
+2020/06/07-03:18:29.038 ac44 Reusing old log /home/jeongmin/.config/google-chrome/Default/IndexedDB/https_www.amazon.com_0.indexeddb.leveldb/000191.log 
+2020/06/07-03:18:39.495 a494 Level-0 table #196: started
+2020/06/07-03:18:39.513 a494 Level-0 table #196: 534 bytes OK
+2020/06/07-03:18:39.518 a494 Delete type=0 #191
+2020/06/07-03:18:39.519 a494 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/06/07-03:18:39.519 a494 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x1f\x03\x00\x10R\x1f\xb1(wB\x00\x01\x14\x006\x000\x00W\x00P\x004\x00X\x003\x00N\x00W\x00S\x000\x00P\x007\x00R\x00K\x00P\x00E\x003\x00K\x00Z' @ 1103 : 1
+2020/06/07-03:18:39.519 a494 Compacting 1@1 + 1@2 files
+2020/06/07-03:18:39.524 a494 Generated table #197@1: 224 keys, 10292 bytes
+2020/06/07-03:18:39.524 a494 Compacted 1@1 + 1@2 files => 10292 bytes
+2020/06/07-03:18:39.528 a494 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/06/07-03:18:39.529 a494 Delete type=2 #196
+2020/06/07-03:18:39.529 a494 Delete type=2 #193
+2020/06/07-03:18:39.529 a494 Manual compaction at level-1 from '\x00\x01\x01\x1f\x03\x00\x10R\x1f\xb1(wB\x00\x01\x14\x006\x000\x00W\x00P\x004\x00X\x003\x00N\x00W\x00S\x000\x00P\x007\x00R\x00K\x00P\x00E\x003\x00K\x00Z' @ 1103 : 1 .. (end); will stop at (end)

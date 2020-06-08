@@ -1,0 +1,6 @@
+2020/06/07-01:43:06.809 1eeb Reusing MANIFEST /home/jeongmin/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2020/06/07-01:43:06.809 1eeb Recovering log #3
+2020/06/07-01:43:06.809 1eeb Reusing old log /home/jeongmin/.config/google-chrome/Default/Sync Data/LevelDB/000003.log 
+2020/06/07-01:51:41.417 54f4 Level-0 table #5: started
+2020/06/07-01:51:41.423 54f4 Level-0 table #5: 169086 bytes OK
+2020/06/07-01:51:41.428 54f4 Delete type=0 #3

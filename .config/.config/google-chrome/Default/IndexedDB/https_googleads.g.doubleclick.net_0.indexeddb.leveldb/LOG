@@ -1,0 +1,5 @@
+2020/06/07-01:51:43.121 1f05 Reusing MANIFEST /home/jeongmin/.config/google-chrome/Default/IndexedDB/https_googleads.g.doubleclick.net_0.indexeddb.leveldb/MANIFEST-000001
+2020/06/07-01:51:51.782 4ddc Level-0 table #5: started
+2020/06/07-01:51:51.786 4ddc Level-0 table #5: 364 bytes OK
+2020/06/07-01:51:51.794 4ddc Delete type=0 #3
+2020/06/07-01:51:51.794 4ddc Manual compaction at level-0 from (begin) .. (end); will stop at (end)

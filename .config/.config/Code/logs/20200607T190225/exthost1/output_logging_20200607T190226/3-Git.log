@@ -1,0 +1,198 @@
+Looking for git in: git
+Using git 2.25.1 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/jeongmin/workspace/airs-recon-package
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/jeongmin/workspace/airs-recon-package/.git/refs/remotes/origin/develop', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/jeongmin/workspace/airs-recon-package/.git/refs/remotes/origin/develop'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:604919)
+	at T.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:83965)
+	at e.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:87)
+	at e.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:103179)
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show :gitlab_key
+> git ls-files --stage -- /home/jeongmin/workspace/airs-recon-package/gitlab_key
+> git show :init.sh
+> git ls-files --stage -- /home/jeongmin/workspace/airs-recon-package/init.sh
+> git cat-file -s 84645708276f1865bcd371a7327cfa7601c93409
+> git show :Dockerfile
+> git ls-files --stage -- /home/jeongmin/workspace/airs-recon-package/Dockerfile
+> git cat-file -s 1370613ca1b4ec5cdae00be3e43152613eb554e0
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :volumes/code/gadgetron/gadgets/dicom/DicomImageWriter.cpp
+> git ls-files --stage -- /home/jeongmin/workspace/airs-recon-package/volumes/code/gadgetron/gadgets/dicom/DicomImageWriter.cpp
+> git show :volumes/code/gadgetron/gadgets/dicom/dicom.xml
+> git ls-files --stage -- /home/jeongmin/workspace/airs-recon-package/volumes/code/gadgetron/gadgets/dicom/dicom.xml
+> git show :volumes/code/gadgetron/gadgets/dicom/DicomImageWriter.h
+> git ls-files --stage -- /home/jeongmin/workspace/airs-recon-package/volumes/code/gadgetron/gadgets/dicom/DicomImageWriter.h
+> git show :volumes/code/gadgetron/gadgets/dicom/DicomImageWriter.cpp
+> git ls-files --stage -- /home/jeongmin/workspace/airs-recon-package/volumes/code/gadgetron/gadgets/dicom/DicomImageWriter.cpp
+> git show :volumes/code/gadgetron/gadgets/dicom/DicomFinishGadget.cpp
+> git ls-files --stage -- /home/jeongmin/workspace/airs-recon-package/volumes/code/gadgetron/gadgets/dicom/DicomFinishGadget.cpp
+> git show :volumes/code/gadgetron/gadgets/dicom/DicomImageWriter.cpp
+> git ls-files --stage -- /home/jeongmin/workspace/airs-recon-package/volumes/code/gadgetron/gadgets/dicom/DicomImageWriter.cpp
+> git show :volumes/code/gadgetron/gadgets/dicom/DicomImageWriter.cpp
+> git ls-files --stage -- /home/jeongmin/workspace/airs-recon-package/volumes/code/gadgetron/gadgets/dicom/DicomImageWriter.cpp
+> git status -z -u
+> git ls-files --stage -- /home/jeongmin/workspace/airs-recon-package/volumes/code/gadgetron/gadgets/dicom/DicomImageWriter.cpp
+> git show :volumes/code/gadgetron/gadgets/dicom/DicomImageWriter.cpp
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/jeongmin/workspace/airs-recon-package/.git/refs/remotes/origin/develop', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/jeongmin/workspace/airs-recon-package/.git/refs/remotes/origin/develop'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:604919)
+	at T.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:83965)
+	at e.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:87)
+	at e.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:103179)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/jeongmin/workspace/airs-recon-package/.git/refs/remotes/origin/develop', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/jeongmin/workspace/airs-recon-package/.git/refs/remotes/origin/develop'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:604919)
+	at T.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:83965)
+	at e.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:87)
+	at e.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:103179)
+> git config --get commit.template
+> git show :Dockerfile
+> git ls-files --stage -- /home/jeongmin/workspace/airs-recon-package/Dockerfile
+> git cat-file -s 1370613ca1b4ec5cdae00be3e43152613eb554e0
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/jeongmin/workspace/airs-recon-package/Dockerfile
+> git show :Dockerfile
+> git ls-files --stage -- /home/jeongmin/workspace/airs-recon-package/Dockerfile
+> git cat-file -s 1370613ca1b4ec5cdae00be3e43152613eb554e0
+> git show :.vscode/launch.json
+> git ls-files --stage -- /home/jeongmin/workspace/airs-recon-package/.vscode/launch.json
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/jeongmin/workspace/airs-recon-package/.git/refs/remotes/origin/develop', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/jeongmin/workspace/airs-recon-package/.git/refs/remotes/origin/develop'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:604919)
+	at T.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:83965)
+	at e.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:87)
+	at e.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:103179)
+> git config --get commit.template
+> git show :Dockerfile
+> git ls-files --stage -- /home/jeongmin/workspace/airs-recon-package/Dockerfile
+> git cat-file -s 1370613ca1b4ec5cdae00be3e43152613eb554e0
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/jeongmin/workspace/airs-recon-package/.git/refs/remotes/origin/develop', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/jeongmin/workspace/airs-recon-package/.git/refs/remotes/origin/develop'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:604919)
+	at T.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:83965)
+	at e.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:87)
+	at e.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:103179)
+> git config --get commit.template
+> git show :.devcontainer.json
+> git ls-files --stage -- /home/jeongmin/workspace/airs-recon-package/.devcontainer.json
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/jeongmin/workspace/airs-recon-package/.git/refs/remotes/origin/develop', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/jeongmin/workspace/airs-recon-package/.git/refs/remotes/origin/develop'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:604919)
+	at T.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:83965)
+	at e.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:87)
+	at e.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:103179)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git check-ignore -v -z --stdin
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/jeongmin/workspace/airs-recon-package/.git/refs/remotes/origin/develop', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/jeongmin/workspace/airs-recon-package/.git/refs/remotes/origin/develop'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:604919)
+	at T.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:83965)
+	at e.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:87)
+	at e.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:103179)
+> git config --get commit.template
+> git show :.dockerignore
+> git ls-files --stage -- /home/jeongmin/workspace/airs-recon-package/.dockerignore
+> git show :.devcontainer.json
+> git ls-files --stage -- /home/jeongmin/workspace/airs-recon-package/.devcontainer.json
+> git show :Dockerfile
+> git ls-files --stage -- /home/jeongmin/workspace/airs-recon-package/Dockerfile
+> git cat-file -s 1370613ca1b4ec5cdae00be3e43152613eb554e0
+> git show :.dockerignore
+> git ls-files --stage -- /home/jeongmin/workspace/airs-recon-package/.dockerignore
+> git show :.devcontainer.json
+> git ls-files --stage -- /home/jeongmin/workspace/airs-recon-package/.devcontainer.json
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/jeongmin/workspace/airs-recon-package/.git/refs/remotes/origin/develop', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/jeongmin/workspace/airs-recon-package/.git/refs/remotes/origin/develop'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:604919)
+	at T.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:83965)
+	at e.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:87)
+	at e.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:103179)
+> git config --get commit.template
+> git show :Dockerfile
+> git ls-files --stage -- /home/jeongmin/workspace/airs-recon-package/Dockerfile
+> git cat-file -s 1370613ca1b4ec5cdae00be3e43152613eb554e0
+> git show :.devcontainer.json
+> git ls-files --stage -- /home/jeongmin/workspace/airs-recon-package/.devcontainer.json
